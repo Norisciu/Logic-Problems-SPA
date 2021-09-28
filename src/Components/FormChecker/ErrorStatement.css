@@ -1,0 +1,10 @@
+.error-box {
+    width: 100%;
+    margin: 1em 0; 
+    padding: 1em;
+    text-align: center;
+    color:whitesmoke;
+    background-color: crimson;
+    display: inline-block;
+    box-sizing: border-box;
+}

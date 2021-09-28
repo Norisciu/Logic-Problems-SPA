@@ -1,0 +1,22 @@
+
+.comment-wrapper {
+    padding : 1em;
+    background-color: lightskyblue;
+}
+
+
+.comment-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.comment-user {
+    color : white;
+    font-weight: 700;
+}
+
+
+.comment-votes {
+    display: inline-block;
+    text-transform: capitalize;
+}

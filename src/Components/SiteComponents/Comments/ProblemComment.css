@@ -1,0 +1,22 @@
+.comment-form {
+    position: relative;
+    margin-bottom: 1em;
+    box-sizing: border-box;
+}
+
+.comment-input {
+    padding : 0.5em;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.button-submit {
+    border-style: none;
+    padding: 0.5em;
+    position: absolute;
+    right: 0.5em;
+    top: 0.25em;
+    bottom: 0.25em;
+    cursor: pointer;
+}

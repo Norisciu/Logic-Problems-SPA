@@ -1,0 +1,36 @@
+.multi-choice-option {
+    width: 50%;
+    background-color: whitesmoke;
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.multi-choice-option--correct{
+    background-color: lightgreen;
+    color:whitesmoke;
+}
+
+.answer-choices-list {
+    padding: 0;
+    list-style: none;
+}
+
+.multi-choice-option.choice-correct {
+    background-color: lightgreen;
+}
+
+.multi-choice-option.choice-wrong {
+    background-color: crimson;
+}
+
+.multi-choice-option.choice-neutral {
+    background-color: whitesmoke;
+}
+
+.button--submit-answer {
+    display: block;
+    margin : 1em auto 0 auto;
+}
